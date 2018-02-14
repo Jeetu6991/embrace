@@ -1,2 +1,3 @@
 # embrace
 It is about how to get on with the things...
+Just prepare and start doing it.
